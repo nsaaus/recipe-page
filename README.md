@@ -19,12 +19,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [View Here](https://your-solution-url.com)
-- Live Site URL: [View Here](https://your-live-site-url.com)
+- Solution URL: [View Here](https://github.com/nsaaus/recipe-page)
+- Live Site URL: [View Here](https://nsaaus.github.io/recipe-page/)
 
 ## Tech Stack
 
